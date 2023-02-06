@@ -1,8 +1,8 @@
-# 🌸 <h1>cifra de Cesar </h1>🌸
+#  <h1>🌸 Cifra de Cesar 🌸</h1>
 
 Projeto Modulo 2 Individual Resilia/Senac.
 
-<h2>💻 Objetivo do Projeto 💻</2>
+<h2>💻 Objetivo do Projeto 💻</H2>
 2° Projeto individual Programadores Cariocas. O projeto consiste em criar uma aplicação capaz de codificar e decodificar mensagens utilizando tanto Base64 quanto Cifra de César.
 
 <h2>🔍 Tecnologias utilizadas</h2>
